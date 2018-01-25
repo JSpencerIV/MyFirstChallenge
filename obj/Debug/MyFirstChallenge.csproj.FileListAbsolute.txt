@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
